@@ -1,0 +1,19 @@
+C:\Users\mihai\Desktop\codes\mymlapp\mymlappML.Model\bin\Debug\netcoreapp2.1\MLModel.zip
+C:\Users\mihai\Desktop\codes\mymlapp\mymlappML.Model\bin\Debug\netcoreapp2.1\mymlappML.Model.deps.json
+C:\Users\mihai\Desktop\codes\mymlapp\mymlappML.Model\bin\Debug\netcoreapp2.1\mymlappML.Model.dll
+C:\Users\mihai\Desktop\codes\mymlapp\mymlappML.Model\bin\Debug\netcoreapp2.1\mymlappML.Model.pdb
+C:\Users\mihai\Desktop\codes\mymlapp\mymlappML.Model\obj\Debug\netcoreapp2.1\mymlappML.Model.csprojAssemblyReference.cache
+C:\Users\mihai\Desktop\codes\mymlapp\mymlappML.Model\obj\Debug\netcoreapp2.1\mymlappML.Model.csproj.CoreCompileInputs.cache
+C:\Users\mihai\Desktop\codes\mymlapp\mymlappML.Model\obj\Debug\netcoreapp2.1\mymlappML.Model.AssemblyInfoInputs.cache
+C:\Users\mihai\Desktop\codes\mymlapp\mymlappML.Model\obj\Debug\netcoreapp2.1\mymlappML.Model.AssemblyInfo.cs
+C:\Users\mihai\Desktop\codes\mymlapp\mymlappML.Model\obj\Debug\netcoreapp2.1\mymlappML.Model.dll
+C:\Users\mihai\Desktop\codes\mymlapp\mymlappML.Model\obj\Debug\netcoreapp2.1\mymlappML.Model.pdb
+C:\Users\Marks\Desktop\laptop backup\Laptop\MK1\AI research\ML projects\mymlapp\mymlappML.Model\bin\Debug\netcoreapp2.1\MLModel.zip
+C:\Users\Marks\Desktop\laptop backup\Laptop\MK1\AI research\ML projects\mymlapp\mymlappML.Model\bin\Debug\netcoreapp2.1\mymlappML.Model.deps.json
+C:\Users\Marks\Desktop\laptop backup\Laptop\MK1\AI research\ML projects\mymlapp\mymlappML.Model\bin\Debug\netcoreapp2.1\mymlappML.Model.dll
+C:\Users\Marks\Desktop\laptop backup\Laptop\MK1\AI research\ML projects\mymlapp\mymlappML.Model\bin\Debug\netcoreapp2.1\mymlappML.Model.pdb
+C:\Users\Marks\Desktop\laptop backup\Laptop\MK1\AI research\ML projects\mymlapp\mymlappML.Model\obj\Debug\netcoreapp2.1\mymlappML.Model.csprojAssemblyReference.cache
+C:\Users\Marks\Desktop\laptop backup\Laptop\MK1\AI research\ML projects\mymlapp\mymlappML.Model\obj\Debug\netcoreapp2.1\mymlappML.Model.AssemblyInfoInputs.cache
+C:\Users\Marks\Desktop\laptop backup\Laptop\MK1\AI research\ML projects\mymlapp\mymlappML.Model\obj\Debug\netcoreapp2.1\mymlappML.Model.AssemblyInfo.cs
+C:\Users\Marks\Desktop\laptop backup\Laptop\MK1\AI research\ML projects\mymlapp\mymlappML.Model\obj\Debug\netcoreapp2.1\mymlappML.Model.dll
+C:\Users\Marks\Desktop\laptop backup\Laptop\MK1\AI research\ML projects\mymlapp\mymlappML.Model\obj\Debug\netcoreapp2.1\mymlappML.Model.pdb
